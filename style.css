@@ -3,7 +3,42 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-
+.banner-btn{
+    background-color: #FFFFFF;
+}
 .third-card{
     border-radius:20px;
+}
+.happy img{ 
+    height:90px;
+}
+.happy-font{
+    font-size: 16px;
+    color: #6C6C6C;
+}
+.happy-bg{
+    background-color:  #FFFFFF;
+}
+.frequently img{
+    width: 500px;
+}
+footer{
+    background-color: #0B0D17;
+    
+}
+.package-card{
+    background-color: #3F87F5;
+}
+.package-text{
+    color: #FFFFFF;
+}
+.package-btn{
+    background: #FFFFFF;
+}
+.package-btn-text{
+    color: #3F87F5;
+}
+.package-btn-common{
+    background-color: #F496D1;
+    
 }
